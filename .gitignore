@@ -1,26 +1,27 @@
 #Ignore thumbnails created by Windows
 Thumbs.db
 #Ignore log, config etc. user created files.
-ClientFiles/spawnmap.ini
-ClientFiles/spawn.ini
-ClientFiles/except.txt
-ClientFiles/ra2md.ini
-ClientFiles/keyboardmd.ini
-ClientFiles/ddraw.dll
-ClientFiles/ddraw.ini
-ClientFiles/libwine.dll
-ClientFiles/wined3d.dll
-ClientFiles/dxwnd.dll
-ClientFiles/dxwnd.ini
-ClientFiles/aqrit.cfg
-ClientFiles/syringe.log
-ClientFiles/stats.dmp
-ClientFiles/debug/
-ClientFiles/Client/
-ClientFiles/Map Editor/FinalAlert.ini
-ClientFiles/Map Editor/RA2Tmp.csf
-ClientFiles/Map Editor/FinalAlert2Log.txt
-ClientFiles/Map Editor/syringe.log
-ClientFiles/Saved Games/
-ClientFiles/Screenshots/
-ClientFiles/Resources/MainMenuTheme.bak
+/package/RA2MD.ini
+/package/Maps/Custom/*.zip
+/package/Maps/Custom/*.map
+/package/Maps/Custom/*.png
+/package/Maps/Custom/*.yrm
+/package/version
+/package/Qt/QM/
+/package/VersionWriter.exe
+/package/VersionWriter-CopiedFiles
+/logs
+/gitversion.json
+ddraw.dll
+ddraw.ini
+RA2MD.ini
+spawn.ini
+spawnmap.ini
+version_u
+/package/Client/
+.idea
+.idea/*
+/tools/node_modules
+/CnCNet5_YR_Installer.exe
+/package.tar.gz
+/Client/
