@@ -16,7 +16,7 @@ jobs:
       with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: "latest"
-          title: Latest CnCNet Client YR Mod Base
+          title: CnCNet YR Client
           prerelease: false
           
           
